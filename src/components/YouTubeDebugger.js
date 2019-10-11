@@ -30,9 +30,9 @@ bitrateChanged = () => {
         </button>
 
         <button className='resolution'onClick=>
-        
+
         </button>
-        
+
     )
   }
 }
