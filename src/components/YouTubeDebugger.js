@@ -29,7 +29,7 @@ videoResolutionChanged = () => {
 
   render(){
     return(
-        <button className='bitrate'onClick={this.bitrateChanged}>
+        <button> className='bitrate'onClick={this.bitrateChanged}
 
         </button>
 
