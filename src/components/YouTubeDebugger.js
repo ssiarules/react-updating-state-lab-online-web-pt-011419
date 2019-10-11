@@ -13,8 +13,8 @@ export default class YouTubeDebugger extends React.Component {
       bitrate: 8,
     video: {
       resolution: '1080p'
-     }
+      }
+    }
    }
- }
-
+  }
 }
