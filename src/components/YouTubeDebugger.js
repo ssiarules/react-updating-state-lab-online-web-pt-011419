@@ -21,6 +21,10 @@ bitrateChanged = () => {
   this.state.bitrate = 12
 }
 
+videoResolutionChanged = () => {
+  this.state.settings.video.resolution = 12
+}
+
   }
 
   render(){
