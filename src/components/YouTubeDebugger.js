@@ -22,7 +22,7 @@ bitrateChanged = () => {
 }
 
 videoResolutionChanged = () => {
-  this.state.settings.video.resolution = 12
+  this.state.settings.video.resolution = '720p'
 }
 
   }
