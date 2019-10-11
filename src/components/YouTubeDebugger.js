@@ -33,7 +33,7 @@ videoResolutionChanged = () => {
 
         </button>
 
-        <button className='resolution'onClick={this.videoResolutionChanged}>
+        <button> className='resolution'onClick={this.videoResolutionChanged}
 
         </button>
 
