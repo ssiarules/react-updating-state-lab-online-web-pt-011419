@@ -15,7 +15,6 @@ timesClickedPlusOne = () => {
   this.setState({
     timesClicked: this.state.timesClicked += 1
   })
-
 }
 
 
