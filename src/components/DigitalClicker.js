@@ -16,7 +16,7 @@ timesClickedPlusOne = () => {
   })
 
 }
-  
+
 
   render(){
     return(
