@@ -10,7 +10,9 @@ class DigitalClicker extends React.Component {
     };
   }
 
-  
+  this.setState({
+    
+  })
 
 
   render(){
