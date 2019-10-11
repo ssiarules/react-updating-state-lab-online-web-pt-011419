@@ -20,7 +20,7 @@ timesClickedPlusOne = () => {
 
   render(){
     return(
-          <button onClick={this.timesClickedPlusOne}>{this.state.timesClicked}>
+          <button onClick={this.timesClickedPlusOne}>{this.state.timesClicked}
 
           </button>
 
