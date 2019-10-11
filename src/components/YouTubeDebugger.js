@@ -8,12 +8,12 @@ export default class YouTubeDebugger extends React.Component {
     super();
 
     this.state = {
-      errors: [], 
-      user: null, 
-      settings: { 
+      errors: [],
+      user: null,
+      settings: {
         bitrate: 8,
-        video: { 
-          resolution: '1080p' 
+        video: {
+          resolution: '1080p'
         }
       }
     }
@@ -49,4 +49,3 @@ export default class YouTubeDebugger extends React.Component {
     )
   }
 }
-
