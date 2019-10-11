@@ -10,10 +10,13 @@ class DigitalClicker extends React.Component {
     };
   }
 
+timesClickedPlusOne = () => {
   this.setState({
     timesClicked += 1
   })
 
+}
+  
 
   render(){
     return(
